@@ -49,22 +49,22 @@ As an end-user, create a ticket. You can create any mock scenario for the lab, M
 8. Change Ticket Status to "Resolved" and click close. You should notice that under "Open" within the "Tickets" page the table should be empty as it has been moved to "Closed" within "Tickets".
 </p>
 <p>
-<img src="https://i.imgur.com/0qRZ4N3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uFZ987b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/LeB0Djd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/hWCAyzD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Dny9vYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/3eir3Gb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Kxlw3r3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TYngNLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/bIMoRxh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/07yzoCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/54NoWxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/ASHYYER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/SjZawnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/5nu0wFP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GqKtZml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/nYmxA08.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0qRZ4N3.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/uFZ987b.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/LeB0Djd.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/hWCAyzD.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/Dny9vYp.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/3eir3Gb.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/Kxlw3r3.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/TYngNLg.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/bIMoRxh.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/07yzoCF.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/54NoWxR.png" height="80%" width="80%" alt="Ticket 1 Steps"/> 
+<img src="https://i.imgur.com/ASHYYER.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/SjZawnx.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/5nu0wFP.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/GqKtZml.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
+<img src="https://i.imgur.com/nYmxA08.png" height="80%" width="80%" alt="Ticket 1 Steps"/>
 </p>
 <br />
 
