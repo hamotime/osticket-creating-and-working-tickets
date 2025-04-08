@@ -71,7 +71,7 @@ As an end-user, create a ticket. You can create any mock scenario for the lab, M
 <p>
 <b> TICKET 2 </b>
 
-Ticket scenario: "The Accounting department needs an adobe upgrade, broken?". I purposely made the issue summary vague for this one which require us to get clarification when working the ticket
+Ticket Scenario: "The Accounting department needs an adobe upgrade, broken?". I purposely made the issue summary vague for this one which require us to get clarification when working the ticket
 
 1. Create a ticket as an end user (URL http://localhost/osTicket). We will use "Ken" this time. Fill out the form, if uncertain refer to Step 1 in Ticket 1.
 2. Login to the Helpdesk login page as John. You will see the newly created ticket, click into it and observe the issue and it's properties.
@@ -92,15 +92,34 @@ Ticket scenario: "The Accounting department needs an adobe upgrade, broken?". I 
 <img src="https://i.imgur.com/gTsekfa.png" height="80%" width="80%" alt="Ticket 2 Resolved 1"/>
 <img src="https://i.imgur.com/3yuQaaj.png" height="80%" width="80%" alt="Ticket 2 Resolved 2"/>
 <img src="https://i.imgur.com/0xUq5KJ.png" height="80%" width="80%" alt="Ticket 2 Open Tickets Empty"/>
-
-
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b> TICKET 3 </b>
+
+Ticket Scenario: "CFO's laptop will no longer turn on" with explanation: "Laptop won't power on when pressing the power button."
+
+1. Create a ticket as an end user (URL http://localhost/osTicket). We will use "Karen" this time. Fill out the form, if uncertain refer to Step 1 in Ticket 1.
+2. Login to the Helpdesk page as John and open the ticket (URL http://localhost/osTicket/scp/login.php).
+3. Change the following properties:
+- Priority: High (I didn't change this property in the previous tickets as I have already defined SLAs for priority. Showing this option for the purpose of the lab.)
+- SLA Plan: Sev-B with note "May re-classify after getting more info."
+- Assigned To: John
+4. As we are dealing with the CFO in this mock scenario. I might call the CFO or Karen directly and ask if they want me to come over to have a look at the laptop. I will pretend that I called Karen and she said I can go and have a look at the laptop and troubleshoot. Using troubleshooting methodology I determine that the issue is the power adapter not charging the battery. I request a replacement power adapter, the battery now charges and the laptop turns on.
+5. Post a Reply to the ticket. "CFO's laptop was not charging due to faulty charger, purchased new charger, now successfully charging".
+6. Change Ticket to "Resolved" and include note "Charger was faulty and could not charge the dead battery". Close ticket.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/kl3Xdil.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/q8RzcBU.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/C2UlYSQ.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/ZrO9B1q.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/6LOB0rX.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/WV7wfk2.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/ZMzRb0A.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/GXVuhS3.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/9PReolw.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
+<img src="https://i.imgur.com/CTRE5XW.png" height="80%" width="80%" alt="Ticket 3 Steps"/>
 </p>
 <br />
