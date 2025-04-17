@@ -47,7 +47,7 @@ As an end-user, create a ticket. You can create any mock scenario for the lab, M
 - "I suspect the problem might be related to the recent update. We tested it sufficiently, but I am going to look into it further and roll it back if that caused the issue". Post the reply, refresh the ticket and you should see that it has been updated in the ticket history.
 - In this mock scenario I will pretend I am a helpdesk agent and take the next step and investigate further. I discover and verify that the cause was an update that was rolled out overnight which caused the system to go offline.
 7. Post another reply in the ticket:
-  - "It was determined that the root cause was the recent update. We rolled it back, notified the vendor and are waiting for a proper fix. Online banking should be up and running". Post the reply. You will notice in the ticket history all of the changes that were made by "Jane" and "John"
+  - "It was determined that the root cause was the recent update. We rolled it back, notified the vendor and are waiting for a proper fix. Online banking should be up and running". Post the reply. You will notice in the ticket history all the changes that were made by the "Jane" and "John" accounts.
 8. Change Ticket Status to "Resolved" and click close. You should notice that under "Open" within the "Tickets" page the table should be empty as it has been moved to "Closed" within "Tickets".
 </p>
 <p>
