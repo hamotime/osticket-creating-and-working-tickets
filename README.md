@@ -77,13 +77,13 @@ Ticket Scenario: "The Accounting department needs an adobe upgrade, broken?". I 
 
 1. Create a ticket as an end user (URL http://localhost/osTicket). We will use "Ken" this time. Fill out the form, if uncertain refer to Step 1 in Ticket 1.
 2. Login to the Helpdesk login page as John. You will see the newly created ticket, click into it and observe the issue and it's properties.
-- When reading the issue you can notice the issue title and explaination are conflicting. The adobe software might not need to be upgraded it just can't be used for whatever reason. This requires us to investigate further. In this mock scenario I reply to Ken and ask "What exactly do you mean by many people in the accounting department can't use their adobe software"? I pretend he has contacted me back stating "Only 2 people in the account department are unable to use Adobe Reader". Clarification here has allowed us to specifically identify the problem. We can proceed to the next step.
-3. In ticket, Update "SLA Plan" property. Change to Sev-C and I will include the note: "2 people in the accounts department are unable to open Adobe Reader."
-4. In ticket, Update "Assigned To" property. Change to "John Doe". We will take the ticket to completion as only John this time.
+- When reading the issue notice the issue title and explaination are conflicting. The adobe software might not need to be upgraded it, just can't be used for whatever reason. This requires us to investigate further. In this mock scenario I reply to Ken and ask "What exactly do you mean by many people in the accounting department can't use their adobe software"? I pretend he has contacted me back stating "Only 2 people in the accounts department are unable to use Adobe Reader". Clarification here has allowed us to specifically identify the problem. We can proceed to the next step.
+3. In ticket, Update "SLA Plan" property. Change to "Sev-C" and I will include the note: "2 people in the accounts department are unable to open Adobe Reader."
+4. In ticket, update "Assigned To" property. Change to "John Doe". We will take the ticket to completion as only John this time.
 5. Post a Reply to the ticket. "Customer states only 2 people in the accounting department are unable to open and use Adobe reader. I have asked the customer to conduct restarts, he will call back after lunch."
   - I will pretend lunch has finished, the customer got back to me and said the restart worked and there are no problems anymore.
 6. Post a Reply to the ticket. "Customer states that restart fixed issue for both users".
-7. Change ticket Status to "Resolved" and include note: "Restart fixed the issue for both user." Click close. The Open tickets section should be empty as the ticket has been moved to close. In my screenshot you will see a ticket called "osTicket Installed!" You can ignore this as it was the default ticket created when installed osTicket ticket. 
+7. Change ticket Status to "Resolved" and include note: "Restart fixed the issue for both users." Click close. The Open tickets section should be empty as the ticket has been moved to close. In my screenshot you will see a ticket called "osTicket Installed!" You can ignore this as it was the default ticket created when installing osTicket ticket. 
 </p>
 <p>
 <img src="https://i.imgur.com/sL7rFBF.png" height="80%" width="80%" alt="Ticket 2 Create Ticket"/>
